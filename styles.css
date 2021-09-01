@@ -1,10 +1,11 @@
 h1 {
   color:black;
   border:2px solid DodgerBlue;
-  background-color:Blue;
   background-color:Gray;
 
 }
+h2 {
+  background-color:Gray;
 
 p {
  color:green; 
